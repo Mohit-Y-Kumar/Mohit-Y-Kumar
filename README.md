@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mohit-Y-Kumar
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning mern stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me https://www.linkedin.com/in/mohit-kumar-a45801274/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: coding
 
 <!---
 Mohit-Y-Kumar/Mohit-Y-Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
