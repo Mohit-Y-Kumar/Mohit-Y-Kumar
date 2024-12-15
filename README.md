@@ -2,6 +2,9 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on projects
+- 👀 I’m seeking internship in full stack development
+- 
+-    
 - 📫 How to reach me https://www.linkedin.com/in/mohit-kumar-a45801274/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coding
